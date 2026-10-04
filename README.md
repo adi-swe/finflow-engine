@@ -143,7 +143,8 @@ dependencies, not three total JARs. No Lombok: write explicit Java while learnin
 
 Task 001's enum and two tests have been reviewed and committed.
 Task 002's record and validation tests have been reviewed (10 tests pass).
-Current assignment: [task 003](docs/learning/task-003-transaction-service.md).
+Task 003's service and tests have been reviewed and committed (12 tests pass).
+Current assignment: [task 004](docs/learning/task-004-in-memory-storage.md).
 For each task: explain the problem, predict behavior, implement, test, review,
 then commit a small coherent change. Use `git status` and `git diff` before staging;
 review `git diff --cached` before committing. Stage only files belonging to the
